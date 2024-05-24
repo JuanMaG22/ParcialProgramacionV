@@ -1,0 +1,20 @@
+header {
+    background-color: #222;
+    color: white;
+    padding: .5rem 0;
+    text-align: center;
+}
+
+.general_container {
+    width: 90%;
+    background-color: rgb(255, 224, 253);
+    margin: 2rem auto;
+    border-radius: 1rem;
+    text-align: center;
+}
+
+.add_product_button {
+    margin: 1rem 0;
+    width: 30rem;
+    
+}
